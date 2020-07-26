@@ -17,15 +17,20 @@ yarn serve
 2. Retrieve current geo-location weather data
 3. Save weather data for offline use
 4. Create UI element that shows up when user is offline mode
+5. Additional - Search for weather in a specific city
 
 ### Future Features
 1. Hourly forecast
-2. Search for weather in a specific city
-3. Create ability to save a city to favourites
-4. Create ability to see saved favourites
+2. Create ability to save a city to favourites
+3. Create ability to see saved favourites
+4. Extra - Add in google map api to show location while users is typing.
+5. Loading spinner and better representation of data
 
 ## Things to cleanup:
-2. Readup on: Fetch vs Axios (https://blog.logrocket.com/axios-or-fetch-api/#:~:text=To%20send%20data%2C%20fetch(),set%20in%20the%20options%20object)
+
+### Readup: 
+1. Fetch vs Axios (https://blog.logrocket.com/axios-or-fetch-api/#:~:text=To%20send%20data%2C%20fetch(),set%20in%20the%20options%20object)
+2. Components segregation and global variables/methods
 
 ## List of Resources:
 1. Introduction to VueJS: https://www.freecodecamp.org/news/a-quick-introduction-to-vue-js-72937ee8880d/
